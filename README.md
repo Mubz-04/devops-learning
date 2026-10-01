@@ -5,7 +5,7 @@ A collection of my DevOps learning notes, labs, and projects as I work through m
 ## Contents
 
 - [Linux Fundamentals](linux/)
-- Bash Scripting
+- [Bash Scripting](./bash-scripting)
 - Git
 - Networking
 - Docker
@@ -21,13 +21,17 @@ A collection of my DevOps learning notes, labs, and projects as I work through m
 - Linux revision notes
 - OverTheWire Bandit Levels 0–20
 - Troubleshooting practice
-- SadServers labs
+
 
 ### Bash Scripting
-In progress
+- 4 core Bash scripting challenges
+- File and directory operations
+- Permissions and backup scripting
 
 ### Git
-Not started yet
+- Git and GitHub fundamentals
+- Commits, branches, and merges
+- Pushing projects to GitHub
 
 ### Networking
 Not started yet
