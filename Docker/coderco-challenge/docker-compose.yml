@@ -1,0 +1,17 @@
+services:
+  redis:
+   container_name: redis
+   build:
+     context: ./redis
+  
+
+  flask:
+    container_name: flask
+    build:
+     context: .
+    depends_on: 
+       - redis
+
+    ports: 
+     - "5000:5001"
+  
