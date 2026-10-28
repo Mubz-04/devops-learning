@@ -1,55 +1,41 @@
-# DevOps Learning
+DevOps Learning
 
-A collection of my DevOps learning notes, labs, and projects as I work through my DevOps training.
+A collection of notes and practical work from my DevOps and cloud training. Each topic links to its folder for more detail.
 
-## Contents
-
-- [Linux Fundamentals](linux/)
-- [Bash Scripting](./bash-scripting)
-- Git
-- Networking
-- Docker
-- AWS
-- Terraform
-- CI/CD with GitHub Actions
-- Kubernetes
-- Projects
-
-## Current Progress
-
-### Linux Fundamentals
+[Linux Fundamentals](linux/README.md)
 - Linux revision notes
 - OverTheWire Bandit Levels 0–20
 - Troubleshooting practice
 
-
-### Bash Scripting
-- 4 core Bash scripting challenges
+[Bash Scripting](bash-scripting/README.md)
+- Arithmetic calculator
 - File and directory operations
-- Permissions and backup scripting
+- File permission checker
+- Text file backup script
 
-### Git
-- Git and GitHub fundamentals
-- Commits, branches, and merges
-- Pushing projects to GitHub
+[Git and GitHub](git/README.md)
+- Branches, pull requests and merges
+- Merge conflict resolution
+- Stash, reset, revert and reflog
+- Interactive rebase, cherry-pick and pre-commit checks
 
-### Networking
-Not started yet
+[Networking](networking/README.md)
+- EC2 instance running NGINX
+- SSH and HTTP security group rules
+- Cloudflare DNS and custom domain
 
-### Docker
-Not started yet
+[Docker](Docker/README.md)
+- Flask and Redis visit counter with Docker Compose
+- Introductory Flask and MySQL exercise
+- Container networking and port mapping
 
-### AWS
-Not started yet
+AWS — In progress
+- IAM users, groups, policies and roles
+- EC2, user data, AMIs and EBS
+- Security groups, IP addressing and networking
+- Scaling, high availability and load balancing
 
-### Terraform
-Not started yet
-
-### CI/CD with GitHub Actions
-Not started yet
-
-### Kubernetes
-Not started yet
-
-### Projects
-Not started yet
+Planned
+- Terraform
+- GitHub Actions and CI/CD
+- Kubernetes
