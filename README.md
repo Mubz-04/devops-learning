@@ -6,7 +6,7 @@ A collection of my DevOps learning notes, labs, and projects as I work through m
 
 - [Linux Fundamentals](linux/)
 - [Bash Scripting](./bash-scripting)
-- Git
+- [Git and GitHub](git/)
 - Networking
 - Docker
 - AWS
